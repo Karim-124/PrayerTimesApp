@@ -1,0 +1,21 @@
+html {
+  direction: rtl;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Montserrat+Alternates:wght@500&display=swap");
+
+.AppContnet{
+    background-color: #2a231d;
+    min-height: 100vh;
+}
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+  color: white !important;
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+  border-color: white !important;
+
+}
+.css-14lo706 span{
+  color: white !important;
+}
