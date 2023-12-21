@@ -7,7 +7,7 @@ PrayerTimesApp is a React application that provides accurate prayer times for us
 1. Clone the repository:
 
    ```bash
-   https://github.com/Karim-124/PrayerTimesApp.git
+   git clone https://github.com/Karim-124/PrayerTimesApp.git
 
 2. Install dependencies using npm:
 
